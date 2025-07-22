@@ -1,0 +1,25 @@
+type: spec.insomnia.rest/5.0
+name: accounts-service.yaml
+meta:
+  id: wrk_5df10c733325469fb290f70a513c7361
+  created: 1753180583371
+  modified: 1753180583371
+  description: ""
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_62706fa4b1c80ba3f35cccae189ee986cfaacbb9
+    created: 1753180583423
+    modified: 1753180583423
+environments:
+  name: Base Environment
+  meta:
+    id: env_62706fa4b1c80ba3f35cccae189ee986cfaacbb9
+    created: 1753180583416
+    modified: 1753180583416
+    isPrivate: false
+spec:
+  meta:
+    id: spc_a9f37f3cfc294f61ba572b2dd9cea5e9
+    created: 1753180583406
+    modified: 1753181579087
